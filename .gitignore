@@ -1,0 +1,17 @@
+# Fichiers générés par l'éditeur
+*.swp
+*.swo
+
+# Dossiers de build
+build/
+
+# Fichiers binaires
+*.o
+*.a
+*.so
+*.exe
+
+# Fichiers de configuration CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
